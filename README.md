@@ -41,7 +41,7 @@ Auro Coins for Engagement: Give users Auro Coins when they participate actively 
 Leaderboards & Recognition: To encourage active community members to contribute, introduce a leaderboard or badges.
 
 ## The following wireframe, designed using Figma, visually represents the improved Exchange section with the new Community feature and the fix for the 'My Poll' bug, ensuring better user engagement and retention.
-![Alt text](wireframe_auro_feature_analysis.jpg)
+![Alt text](wireframe_auro_feature_analysis.png)
 
 ##  Low-Fidelity Wireframe
 I made a wireframe in Figma to show off the new features and user flow of the updated Community engagement (Exchange section).
