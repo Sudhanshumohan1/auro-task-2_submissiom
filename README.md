@@ -44,7 +44,7 @@ Leaderboards & Recognition: To encourage active community members to contribute,
 ![Alt text](wireframe_auro_feature_analysis.png)
 
 ##  Low-Fidelity Wireframe
-I made a wireframe in Figma to show off the new features and user flow of the updated Community engagement (Exchange section).
+I made a wireframe in Figma to show off the new features and user flow of the updated Community engagement (Exchange section). Link-https://www.figma.com/design/4p2AvEvNaMS1fgOCJuK4fj/Untitled?node-id=0-1&t=rX0OaHJKZCgcvT0s-1
 
 ### User Journey:
 Experiencing the Poll glitch: Users may become confused by a glitch in the "My Poll" area. While a repair is being implemented, a temporary tooltip recognises the problem.
