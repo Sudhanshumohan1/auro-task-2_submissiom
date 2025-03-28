@@ -97,7 +97,7 @@ Real-Time Progress Tracker: Provide a progress bar that updates fluidly and appr
 User-Friendly changes: Reduce abrupt changes by designing the exam interface to provide a consistent and predictable flow.
 ### Justification:
 User confidence is increased, frustration is decreased, and attention is maintained throughout assessments with the support of a clear test format and trustworthy progress monitoring. In the end, this raises both the perceived value of the learning process and total retention.
-### Conclusion
+## Conclusion
 #### These targeted improvements—streamlining navigation, enhancing Auro Tutor’s accessibility, and refining exam interfaces—are critical for elevating the overall user experience. By addressing these issues, AuroEdu can significantly boost user engagement and retention, aligning the product with modern educational technology standards.
 
 Thank you, Auro, for giving me the opportunity to work on this project. I'm excited about the improvements proposed and am eager to hear any suggestions or questions you might have. Looking forward to the next steps!
