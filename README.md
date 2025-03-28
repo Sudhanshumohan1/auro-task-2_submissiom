@@ -18,7 +18,6 @@ Code Debugging & Real-Time Updates: Evaluate the code in detail to find the unde
 Easy-to-use Interface Improvements: Redesign the poll display section to incorporate a progress indicator that makes it obvious what proportion of the survey has been completed, as well as a seamless transition between voting and results display.
 
 Feedback Mechanism: Provide users with the ability to view a comprehensive breakdown of poll results and instant feedback (such as a confirmation message) following their vote.
-
-
+Here is the screenshot for the issue i have encountered while using the website and the app that i have created 4 to 5 polls but i am unable to track my acctivity regarding the poll in my profile as the other questions and post do. wireframe_auro_feature_analysis.png
 ### 2. Introducing Community Engagement & Group Making
 #### Feature Overview:
